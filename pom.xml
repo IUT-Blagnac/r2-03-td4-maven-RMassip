@@ -28,7 +28,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>Geometrie</mainClass>
+              <mainClass>HelloJava</mainClass>
             </manifest>
           </archive>
         </configuration>
